@@ -1,1 +1,2 @@
-print('Familiarisation à Github')
+print(' Initialisation à Python')
+
