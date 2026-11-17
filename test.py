@@ -1,0 +1,1 @@
+print('Familiarisation à Github')
